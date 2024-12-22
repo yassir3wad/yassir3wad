@@ -34,6 +34,8 @@ I’m passionate about creating impactful products, continuously improving proce
 - **Education**: Bachelor’s in Computer Engineering, IUG University (2012 - 2017)
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yassir3wad&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Tech Stack & Skills
 
 ### Backend
@@ -74,17 +76,7 @@ I’m passionate about creating impactful products, continuously improving proce
 ---
 
 ## GitHub Stats
-
-<div align="center">
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yassir3wad)](https://github.com/anuraghazra/github-readme-stats)
-
-![Yassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassir3wad&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassir3wad&layout=compact&theme=radical)
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yassir3wad)](https://git.io/streak-stats)
 
 ![Metrics](https://raw.githubusercontent.com/yassir3wad/yassir3wad/main/github-metrics.svg)
-
-
 <p align="center">Thanks for stopping by! Let's build something great together.</p>
