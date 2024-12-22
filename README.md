@@ -1,7 +1,6 @@
-# Hi there, I'm Yassir! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
+![Yassir Awad](./github-header-image.png)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yassir3wad)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yassir3wad)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Yassir3wad94)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yassir3wad)
 
 ---
@@ -22,7 +21,7 @@ I’m passionate about creating impactful products, continuously improving proce
 ## Contact Me
 
 - **Email**: [com.eng.yassir@gmail.com](mailto:com.eng.yassir@gmail.com)
-- **Twitter**: [@yassir3wad](https://twitter.com/yassir3wad)
+- **Twitter**: [@yassir3wad94](https://x.com/Yassir3wad94)
 - **LinkedIn**: [linkedin.com/in/yassir3wad](https://www.linkedin.com/in/yassir3wad)
 - **GitHub**: [github.com/yassir3wad](https://github.com/yassir3wad)
 
@@ -73,12 +72,13 @@ I’m passionate about creating impactful products, continuously improving proce
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
 
+[//]: # ([![Ashutosh's github activity graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=yassir3wad&#41;]&#40;https://github.com/ashutosh00710/github-readme-activity-graph&#41;)
+
 ---
 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=yassir3wad)](https://git.io/streak-stats)
-
-![Metrics](https://raw.githubusercontent.com/yassir3wad/yassir3wad/main/github-metrics.svg)
 ![Metrics](https://raw.githubusercontent.com/yassir3wad/yassir3wad/main/profile-3d-contrib/profile-gitblock.svg)
+![Metrics](https://raw.githubusercontent.com/yassir3wad/yassir3wad/main/github-metrics.svg)
 
 <p align="center">Thanks for stopping by! Let's build something great together.</p>
