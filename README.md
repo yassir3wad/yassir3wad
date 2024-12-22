@@ -79,4 +79,6 @@ I’m passionate about creating impactful products, continuously improving proce
 [![GitHub Streak](https://streak-stats.demolab.com?user=yassir3wad)](https://git.io/streak-stats)
 
 ![Metrics](https://raw.githubusercontent.com/yassir3wad/yassir3wad/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/yassir3wad/yassir3wad/main/profile-3d-contrib/profile-gitblock.svg)
+
 <p align="center">Thanks for stopping by! Let's build something great together.</p>
