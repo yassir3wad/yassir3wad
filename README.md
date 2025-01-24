@@ -7,7 +7,7 @@
 
 ## About Me
 
-**Lead Full-Stack Engineer** with over **9 years** of experience delivering **high-quality web applications**. I excel at:
+**Lead Full-Stack Engineer** with over **8 years** of experience delivering **high-quality web applications**. I excel at:
 
 - Architecting and building scalable solutions using **PHP**, **Laravel**, and **JavaScript**.
 - Leading cross-functional teams and providing **technical leadership** in **Agile** environments.
@@ -77,7 +77,7 @@ I’m passionate about creating impactful products, continuously improving proce
 ---
 
 ## GitHub Stats
-![Metrics](https://raw.githubusercontent.com/yassir3wad/yassir3wad/main/profile-summary-card-output/default/0-profile-details.svg)
+[![GitHub Streak](https://raw.githubusercontent.com/yassir3wad/yassir3wad/main/github-streak.png)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=yassir3wad)](https://git.io/streak-stats)
 ![Metrics](https://raw.githubusercontent.com/yassir3wad/yassir3wad/main/profile-3d-contrib/profile-gitblock.svg)
 ![Metrics](https://raw.githubusercontent.com/yassir3wad/yassir3wad/main/github-metrics.svg)

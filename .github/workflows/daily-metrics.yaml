@@ -1,23 +1,24 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [ { cron: "0 23 * * *" } ]
-  # Lines below let you run workflow manually and on each commit
+  # Schedule updates (each day at 23:00)
+  schedule:
+    - cron: "0 23 * * *"
+  # Allow manual (workflow_dispatch) and on push to main
   workflow_dispatch:
-  push: { branches: [ "main" ] }
+  push:
+    branches: [ "main" ]
+
 jobs:
+  # --- Existing metrics job ---
   github-metrics:
     runs-on: ubuntu-latest
+    # Make sure we have write permission to push (if needed for the metrics)
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: yassir3wad
           template: classic
           base: header, activity, community, repositories, metadata
@@ -65,3 +66,24 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+  # --- New job to fetch & commit the streak stats image ---
+  streak-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Download streak stats image
+        run: |
+          curl -sL "https://streak-stats.demolab.com?user=yassir3wad" -o github-streak.png
+
+      - name: Commit and push streak stats
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add github-streak.png
+          git commit -m "chore: update GitHub Streak image"
+          git push
