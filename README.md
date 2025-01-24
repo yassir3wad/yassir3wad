@@ -7,7 +7,7 @@
 
 ## About Me
 
-**Lead Full-Stack Engineer** with over **8 years** of experience delivering **high-quality web applications**. I excel at:
+**Lead Full-Stack Engineer** with over **9 years** of experience delivering **high-quality web applications**. I excel at:
 
 - Architecting and building scalable solutions using **PHP**, **Laravel**, and **JavaScript**.
 - Leading cross-functional teams and providing **technical leadership** in **Agile** environments.
