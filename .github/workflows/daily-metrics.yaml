@@ -80,7 +80,7 @@ jobs:
 
       - name: Download streak stats image
         run: |
-          curl -sL "https://streak-stats.demolab.com?user=yassir3wad" -o github-streak.png
+          curl -sL "https://streak-stats.demolab.com?user=yassir3wad" -o github-streak.svg
 
       - name: Commit and push streak stats
         run: |
@@ -89,6 +89,6 @@ jobs:
           # Pull the latest changes from the remote to avoid conflicts
           git pull --rebase origin main
 
-          git add github-streak.png
+          git add github-streak.svg
           git commit -m "chore: update GitHub Streak image" || echo "No changes to commit."
           git push origin main
