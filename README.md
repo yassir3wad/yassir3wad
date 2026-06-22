@@ -28,7 +28,7 @@ I’m passionate about creating impactful products, continuously improving proce
 ---
 
 ### Quick Facts
-- **Location**: Cairo, Egypt
+- **Location**: katwoude, Netherlands
 - **Languages**: English (Fluent), Arabic (Native)
 - **Education**: Bachelor’s in Computer Engineering, IUG University (2012 - 2017)
 ---
